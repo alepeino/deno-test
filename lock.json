@@ -1,0 +1,22 @@
+{
+  "https://deno.land/std@0.141.0/async/abortable.ts": "87aa7230be8360c24ad437212311c9e8d4328854baec27b4c7abb26e85515c06",
+  "https://deno.land/std@0.141.0/async/deadline.ts": "48ac998d7564969f3e6ec6b6f9bf0217ebd00239b1b2292feba61272d5dd58d0",
+  "https://deno.land/std@0.141.0/async/debounce.ts": "564273ef242bcfcda19a439132f940db8694173abffc159ea34f07d18fc42620",
+  "https://deno.land/std@0.141.0/async/deferred.ts": "bc18e28108252c9f67dfca2bbc4587c3cbf3aeb6e155f8c864ca8ecff992b98a",
+  "https://deno.land/std@0.141.0/async/delay.ts": "cbbdf1c87d1aed8edc7bae13592fb3e27e3106e0748f089c263390d4f49e5f6c",
+  "https://deno.land/std@0.141.0/async/mod.ts": "6e42e275b44367361a81842dd1a789c55ab206d7c8a877d7163ab5c460625be6",
+  "https://deno.land/std@0.141.0/async/mux_async_iterator.ts": "f4d1d259b0c694d381770ddaaa4b799a94843eba80c17f4a2ec2949168e52d1e",
+  "https://deno.land/std@0.141.0/async/pool.ts": "ef9eb97b388543acbf0ac32647121e4dbe629236899586c4d4311a8770fbb239",
+  "https://deno.land/std@0.141.0/async/tee.ts": "1341feb1f5b1a96f8628d0f8fc07d8c43d3813423f18a63bf1b4785568d21b1f",
+  "https://deno.land/std@0.141.0/http/server.ts": "3da75405704bebcf212a55966a68a489f7e094ba52b5d38f181fe0ef8461a55d",
+  "https://esm.sh/react-dom@17.0.2/server": "baffc0c88caf460b50ecac98ec3f0238a3c7c76c2ad88cab2fc51f61efcdcdc1",
+  "https://esm.sh/react@17.0.2": "c5cf9d5a910f610823b29033e4e06207f234ff08d3c42af91a08937d5d8385f8",
+  "https://esm.sh/v82/@types/prop-types@15.7.5/index.d.ts": "6a386ff939f180ae8ef064699d8b7b6e62bc2731a62d7fbf5e02589383838dea",
+  "https://esm.sh/v82/@types/react-dom@17.0.17/server~.d.ts": "909f7d5428fb982d89e188cffa953a751b3bd714340972e22c737b90164c672e",
+  "https://esm.sh/v82/@types/react@17.0.45/global.d.ts": "bbdf156fea2fabed31a569445835aeedcc33643d404fcbaa54541f06c109df3f",
+  "https://esm.sh/v82/@types/react@17.0.45/index.d.ts": "216f02f256fb66950bb7a0a3a5b210ef3b534e50046287ba65f5a4d450171e1e",
+  "https://esm.sh/v82/@types/scheduler@0.16.2/tracing.d.ts": "f5a8b384f182b3851cec3596ccc96cb7464f8d3469f48c74bf2befb782a19de5",
+  "https://esm.sh/v82/csstype@3.1.0/index.d.ts": "ba7617784f6b9aeac5e20c5eea869bbc3ef31b905f59c796b0fd401dae17c111",
+  "https://esm.sh/v82/react-dom@17.0.2/deno/server.js": "7dd502d87be1349a3a2d50dc12ea8f6e1b7f91f4b10b37fc5a97c7fdc66dd0d0",
+  "https://esm.sh/v82/react@17.0.2/deno/react.js": "e938c1a9478026c5d0de7c3e1627ed0050744fac27eede3433a09f5560bc93e1"
+}
